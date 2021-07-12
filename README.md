@@ -2,9 +2,9 @@
 
 ![NGO website project](https://github.com/abhibarkade111/NGO-web-app-project/blob/master/screenshot1.png?raw=true)
 
-![NGO website project](https://github.com/abhibarkade111/NGO-web-app-project/blob/master/screenshot1.png?raw=true)
+![NGO website project](https://github.com/abhibarkade111/NGO-web-app-project/blob/master/screenshot2.png?raw=true)
 
-![NGO website project](https://github.com/abhibarkade111/NGO-web-app-project/blob/master/screenshot1.png?raw=true)
+![NGO website project](https://github.com/abhibarkade111/NGO-web-app-project/blob/master/screenshot3.png?raw=true)
 
 
 ### Link
